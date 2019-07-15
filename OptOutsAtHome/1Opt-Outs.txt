@@ -1,0 +1,52 @@
+Before anything, create new excel file with 
+
+first column: email
+
+and underneath that email/s of the person/s who wants to be removed. Save.
+
+(See 2ExampleOptOut to see how it should look)
+
+
+
+
+1. Subscribers > Opt-Out List > Import List
+
+2.Upload database to import
+
+3. Drag drop Excel file with opt-out email
+
+4. select appropriate table (eg. sheet1 etc.)
+
+5. 90% of the time it will be "ALL Newsletter Lists". Hit perform import.
+
+6. Screenshot and send back to Address Update (address.update@utoronto.ca)
+
+7. Repeat process on ALG instance except step 6 (Go Incognito)
+
+
+
+
+
+
+alg-ahmads32
+
+12345rfv!
+
+
+
+
+
+Hi there,
+
+The email has been removed from the list. See attached proof.
+
+-Shaz
+
+
+
+
+Hi there,
+
+The emails hav been removed from the list. See attached proof.
+
+-Shaz
